@@ -6,10 +6,10 @@
 title: 石猫博客
 subtitle: '没法在现实生活中被人铭记,就在互联网上被人铭记'
 description: '你好 我叫石猫'
-keywords:
+keywords: 石猫博客,个人博客,Hexo
 author: 石猫
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Hong_Kong'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: anzhiyu
-theme: landscape
+theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
